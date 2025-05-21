@@ -5,9 +5,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=A0BAED&center=true&vCenter=true&width=300&lines=%E2%9C%A8Tech+Stack%E2%9C%A8)](https://git.io/typing-svg)
   <h4>BackEnd</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
   <br>
   <h4>FrontEnd</h4>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -18,6 +18,7 @@
   <br>
   <h4>DataBase</h4>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=white" />
   <br>
   <h4>Build & CI/CD Tools & Cloud Service</h4>
